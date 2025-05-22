@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Averil!
+## Hi, I'm Averil!
 
 👩‍💻 A cybersecurity and AI Student sharing about my journey and learnings</br>
 🎓 Studying Computer Science at Taylor's University</br>
