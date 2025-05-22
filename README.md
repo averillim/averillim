@@ -1,6 +1,6 @@
 ## Hi, I'm Averil!
 
-👩‍💻 A cybersecurity and AI Student sharing about my journey and learnings</br>
+👩‍💻 A cybersecurity and AI Student sharing about my journey and learnings in tech</br>
 🎓 Studying Computer Science at Taylor's University</br>
 💻 Currently working on an e-commerce customer segmentation model</br>
 🔎 Learning about big data and machine learning</br>
